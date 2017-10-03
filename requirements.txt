@@ -1,0 +1,5 @@
+numpy
+pymongo
+sklearn
+unidecode
+python-crfsuite
